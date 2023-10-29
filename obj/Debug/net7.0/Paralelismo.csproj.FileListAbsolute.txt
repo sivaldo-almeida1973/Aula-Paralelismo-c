@@ -1,0 +1,14 @@
+C:\Users\sival\Paralelismo\bin\Debug\net7.0\Paralelismo.exe
+C:\Users\sival\Paralelismo\bin\Debug\net7.0\Paralelismo.deps.json
+C:\Users\sival\Paralelismo\bin\Debug\net7.0\Paralelismo.runtimeconfig.json
+C:\Users\sival\Paralelismo\bin\Debug\net7.0\Paralelismo.dll
+C:\Users\sival\Paralelismo\bin\Debug\net7.0\Paralelismo.pdb
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.AssemblyInfoInputs.cache
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.AssemblyInfo.cs
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.csproj.CoreCompileInputs.cache
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.dll
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\refint\Paralelismo.dll
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.pdb
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\Paralelismo.genruntimeconfig.cache
+C:\Users\sival\Paralelismo\obj\Debug\net7.0\ref\Paralelismo.dll
